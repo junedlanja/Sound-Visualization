@@ -1,0 +1,13 @@
+{
+    "name": "sound-visualization-bar",
+    "version": "1.0.0",
+    "description": "Sound visualization using bar",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Thanmai Korati",
+    "license": "MIT",
+    "dependencies": {
+        "express": "4.13.3"
+    }
+}
